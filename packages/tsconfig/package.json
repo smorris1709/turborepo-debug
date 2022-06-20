@@ -1,0 +1,13 @@
+{
+  "name": "tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "types": "models.d.ts",
+  "files": [
+    "base.json",
+    "nextjs.json",
+    "react-library.json",
+    "models.d.ts"
+  ]
+}
