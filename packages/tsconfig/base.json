@@ -16,6 +16,6 @@
     "skipLibCheck": true,
     "strict": true
   },
-  "include": ["./models.d.ts"],
+  "include": ["*.d.ts"],
   "exclude": ["node_modules"]
 }

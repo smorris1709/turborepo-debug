@@ -7,7 +7,6 @@
   "files": [
     "base.json",
     "nextjs.json",
-    "react-library.json",
-    "models.d.ts"
+    "react-library.json"
   ]
 }

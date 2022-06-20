@@ -6,6 +6,10 @@ export default function Docs() {
     age: 30,
   };
 
+  const dog: App.Models.Animal = {
+    name: "Fido",
+  };
+
   return (
     <div>
       <h1>Docs</h1>
